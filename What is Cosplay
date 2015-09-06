@@ -1,3 +1,11 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CossiePlay- What is Cosplay?</title>
+<link href="Layout.css" rel="stylesheet" type="text/css">
+</head>
+
 <body>
 <h1>CossiePlay</h1>
 <br>
@@ -8,23 +16,23 @@
     <li><a href="#">About Us</a>
       <ul>
           <li><a href="WhatIsCosplay.html">What is Cosplay?</a></li>
-       </ul>
+      </ul>
     </li>
     <li><a href="Index.html">Home</a></li>
 </ul>
 </div>
-<h2>What is Cosplay?</h2>
-<p>Cosplay, a portmateau of the words costume play, is a performance art in which participants called wear costumes<br>
- and fashion accessories to represent a specific character. Cosplayers often interact to create a subculture <br>
-and abroader use of the term "cosplay" applies to any costumed role-playingin venues apart from on stage. <br>
-Any entity that lends itself to dramatic interpretation may be taken up as a subject and it is not unusual <br>
-to see genders switched. Favourite sources include manga and anime, comic books and cartoons, video games, <br>
-and live-action films and Television series.
-<br>
-The rapid growth in the number of people cosplaying as a hobby since 1990 has made the phenomenon <br>
-a significant aspect of popular cultre in Japan and some other parts of Asia and in the Western World. <br>
-Cosplay events are common features of fan conventions and there are also dedicated conventions <br>
-and local and international competitions, as well as social networks, websites and other forms of media <br>
-centered on cosplay activities.
-<br>
-Reproduced from <a href="https://en.wikipedia.org/wiki/Cosplay">https://en.wikipedia.org/wiki/Cosplay</a>
+
+<img src="boromir-4-1478698.jpg" width="600" height="900" alt="boromir" style="float:right"/>
+<p id="cosplayAns"><h2>What is Cosplay?</h2>Cosplay, a portmateau of the words costume play, is a performance art in which participants called wear costumes
+ and fashion accessories to represent a specific character. Cosplayers often interact to create a subculture 
+and abroader use of the term "cosplay" applies to any costumed role-playingin venues apart from on stage. 
+Any entity that lends itself to dramatic interpretation may be taken up as a subject and it is not unusual 
+to see genders switched. Favourite sources include manga and anime, comic books and cartoons, video games,
+and live-action films and Television series. 
+The rapid growth in the number of people cosplaying as a hobby since 1990 has made the phenomenon 
+ a significant aspect of popular cultre in Japan and some other parts of Asia and in the Western World.
+Cosplay events are common features of fan conventions and there are also dedicated conventions
+and local and international competitions, as well as social networks, websites and other forms of <a href="https://en.wikipedia.org/wiki/Cosplay">ttps://en.wikipedia.org/wiki/Cosplay</a> </p>
+
+</body>
+</html>
