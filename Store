@@ -11,25 +11,30 @@
 <br>
 <div id="menu">
 <ul id="navBar">
-    <li><a href="Index.html">Sign Up</a></li>
+    <li><a href="Signup.html">Sign Up</a></li>
     <li><a href="Store.html">Store</a></li>
     <li><a href="#">About Us</a>
       <ul>
           <li><a href="WhatIsCosplay.html">What is Cosplay?</a></li>
       </ul>
     </li>
-    <li><a href="#">Home</a></li>
+    <li><a href="Index.html">Home</a></li>
 </ul>
 </div><br>
 <br>
 <br>
 
-<table id="prices" width="200" border="1">
-  <tbody>
+
+<p><center>We sell second-hand costumes in store! <br>
+see the list below for what we have in stock.</center></p>
+<img src="winter-kingdom-798279_1920.jpg" width="900" height="750" alt="Queen" style="float:right"/>
+<table id="prices" width="200" border="1"> 
+
+   <tbody>
     <tr>
-      <td>Costume </td>
-      <td>Size </td>
-      <td>Price </td>
+      <td><em><strong>Costume</strong></em></td>
+      <td><em><strong>Size </strong></em></td>
+      <td><em><strong>Price</strong></em> </td>
     </tr>
     <tr>
       <td>Spiderman</td>
@@ -88,7 +93,7 @@
     </tr>
   </tbody>
 </table>
-</div>
 
 </body>
 </html>
+
