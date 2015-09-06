@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<title>A1 Project Plan for ?Student Name?</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <style type="text/css">
+    body { font-family: Arial; margin-left: 3em; }
+    h1, h2 { margin-left: -1em; }
+    h2 { margin-top: 1.5em; margin-bottom: 0.5em; }
+  </style>
+</head>
+
+<body>
+<h1>CP1406 - Assignment 1 - Project Plan - CossiePlay</h1>
+<p><strong>Name: Brandon Luke Donald Claybourn</strong><br>
+<strong>Login: jc321117</strong></p>
+<h2>Mission</h2>
+<p>The goal of the website I will be creating is to greatly improve the small family run business by giving them a bigger customer base, by improving their exposure to their target audience via the attention grabbing site. The site is needed by the client as it improves their company as a whole. It will enable the company to keep their customers informed with updates and announcements on the monthly cosplay party, while also giving them a wider market that reaches more people and another medium to display cosplay costumes that are for sale.</p>
+<h2>Success Evaluation</h2>
+<p> A great way to see if the site does what the client wants is to document how many people come to the next monthly cosplay event and if anyone actually signs up via email. Site hits will not be a marking criteria as it does not mean that they have more customers.  If there is any marked improvement to the number of attendees, which is exactly what the client desired, the site was a success.</p>
+<h2>Target Audience</h2>
+<p>The target audience of the site as given by the client CossiePlay, is teenagers in High school, from the ages of 13-18. To cater the site to teens, I will use a variety of images of cosplay to attract their attention, and minimalize my blocks of texts by linking them to another page. The information is still there and easy to find if needed and because I have done this, I do not scare kids away with big blocks of reading they most likely don't want to read.</p>
+<h2>Site Flowchart (Structure Diagram)</h2>
+<p><img src="" alt="Site Flowchart"> ... </p>
+<h2>GitHub Repository</h2>
+<p><a href="https://github.com/Brandonclaybourn/Web-design">Brandon Claybourn GIT HUB repository</a></p>
+</body>
+</html>
