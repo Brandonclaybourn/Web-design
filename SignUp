@@ -1,32 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CossiePlay- Sign Up</title>
+<link href="Layout.css" rel="stylesheet" type="text/css">
+</head>
 <body>
 <h1>CossiePlay</h1>
 <br>
 <div id="menu">
 <ul id="navBar">
-    <li><a href="Signup.html">Sign Up</a></li>
+    <li><a href="">Sign Up</a></li>
     <li><a href="Store.html">Store</a></li>
-    <li><a href="#">About Us</a>
+    <li><a href="#">About Us<span class="arrow"></span></a>
       <ul>
           <li><a href="WhatIsCosplay.html">What is Cosplay?</a></li>
-       </ul>
+      </ul>
     </li>
     <li><a href="Index.html">Home</a></li>
 </ul>
 </div>
-<h2>What is Cosplay?</h2>
-<p>Cosplay, a portmateau of the words costume play, is a performance art in which participants called wear costumes<br>
- and fashion accessories to represent a specific character. Cosplayers often interact to create a subculture <br>
-and abroader use of the term "cosplay" applies to any costumed role-playingin venues apart from on stage. <br>
-Any entity that lends itself to dramatic interpretation may be taken up as a subject and it is not unusual <br>
-to see genders switched. Favourite sources include manga and anime, comic books and cartoons, video games, <br>
-and live-action films and Television series.
+
+<h2>Sign Up</h2>
+<p>Patrons can register to come to a party by emailing us. <br>
+Fill out the forms below and hit submit to sign up! <br></p>
+<form>
+First Name: <input><br>
+PhoneNumber: <input>
 <br>
-The rapid growth in the number of people cosplaying as a hobby since 1990 has made the phenomenon <br>
-a significant aspect of popular cultre in Japan and some other parts of Asia and in the Western World. <br>
-Cosplay events are common features of fan conventions and there are also dedicated conventions <br>
-and local and international competitions, as well as social networks, websites and other forms of media <br>
-centered on cosplay activities.
+How many people are coming:<input>
 <br>
-Reproduced from <a href="https://en.wikipedia.org/wiki/Cosplay">https://en.wikipedia.org/wiki/Cosplay</a>
-</p>
+<br>
+<input formaction="SignupQuery.html" type="submit"></form>
+
+<br>
+<h2>Party Guidelines</h2>
+<p>CossiePlay party-goers party at their own risk and are responsible for their own saftey. <br>
+Check with your doctor before you party hard.<br>
+Party fees must be paid at the door. Cash pr eftpos accepted. Credit card payment attract a 2% surcharge.<br>
+ Alcohol is served at the bar to over 18s only. No intoxicated persons will be served, but will be escorted to a taxi - paid by the party-goer</p>
+
 </body>
+</html>
