@@ -25,9 +25,9 @@
 <br>
 
 
-<p><center>We sell second-hand costumes in store! <br>
-see the list below for what we have in stock.</center></p>
-<img src="winter-kingdom-798279_1920.jpg" width="900" height="750" alt="Queen" style="float:right"/>
+<p id="pricesText">We sell second-hand costumes in store! 
+see the list below for what we have in stock.</p><br><img src="winter-kingdom-798279_1920.jpg" alt="imgQueen" width="550" height="750" style="float:left"/>
+
 <table id="prices" width="200" border="1"> 
 
    <tbody>
@@ -96,4 +96,3 @@ see the list below for what we have in stock.</center></p>
 
 </body>
 </html>
-
