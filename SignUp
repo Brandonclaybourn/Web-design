@@ -10,9 +10,9 @@
 <br>
 <div id="menu">
 <ul id="navBar">
-    <li><a href="">Sign Up</a></li>
+    <li><a href="Signup.html">Sign Up</a></li>
     <li><a href="Store.html">Store</a></li>
-    <li><a href="#">About Us<span class="arrow"></span></a>
+    <li><a href="#">About Us</a>
       <ul>
           <li><a href="WhatIsCosplay.html">What is Cosplay?</a></li>
       </ul>
@@ -24,8 +24,9 @@
 <h2>Sign Up</h2>
 <p>Patrons can register to come to a party by emailing us. <br>
 Fill out the forms below and hit submit to sign up! <br></p>
+
 <form>
-First Name: <input><br>
+  First Name: <input><br>
 PhoneNumber: <input>
 <br>
 How many people are coming:<input>
@@ -33,12 +34,11 @@ How many people are coming:<input>
 <br>
 <input formaction="SignupQuery.html" type="submit"></form>
 
-<br>
-<h2>Party Guidelines</h2>
+<br><img src="party-1506740-640x480.jpg" width="540" height="380" alt="" style="float:left"/>
+<div id="guidelines"><h2>Party Guidelines</h2>
 <p>CossiePlay party-goers party at their own risk and are responsible for their own saftey. <br>
 Check with your doctor before you party hard.<br>
-Party fees must be paid at the door. Cash pr eftpos accepted. Credit card payment attract a 2% surcharge.<br>
- Alcohol is served at the bar to over 18s only. No intoxicated persons will be served, but will be escorted to a taxi - paid by the party-goer</p>
-
+Party fees must be paid at the door. Cash or eftpos accepted. Credit card payment attract a 2% surcharge.<br>
+ Alcohol is served at the bar to over 18s only. No intoxicated persons will be served, but will be escorted to a taxi - paid by the party-goer</p></div>
 </body>
 </html>
