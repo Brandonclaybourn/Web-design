@@ -65,7 +65,10 @@ a:link, a:visited, a:active, a:hover {
 }
 #prices {
 	text-align:center;
-	margin-left: 5em;
-	margin-right:100em;
+	margin-left:40em;
+	margin-right:0;
 }
-
+#pricesText {
+	text-align:center;
+}
+	
